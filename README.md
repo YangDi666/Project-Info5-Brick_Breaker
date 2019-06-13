@@ -1,9 +1,11 @@
 # Project-Info5-Brick_Breaker
 Project of Info5 : Game development using C++, QT Creator (GUI) and OpenCV (hand recognation), OpenGL (3D display).
 
-- Telecom-St-Etienne - Di Yang & Pingjie Du
+Telecom-St-Etienne 
 
-In this game, we should break all the bricks with the red ball and we can control the movement of the platform by our hand in front of the webcam.
+Di Yang & Pingjie Du
+
+- In this game, we should break all the bricks with the red ball and we can control the movement of the platform by our hand in front of the webcam.
 We can also set the width of the platform and save your scores.
 
 #### Demo GUI
